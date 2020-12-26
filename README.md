@@ -1,16 +1,16 @@
-# {Package Name}
+# Audio System
 
-{Package Description}
+The source code of the Audio System for Unity engine.
 
 ## Resources
 
-- [Example.com](https://www.example.com)
+- [Discord](https://discord.com/invite/HWMqD7T)
 
 ## Getting Started
 
 ### Prerequisites
 
-- Unity {Required Unity Version}
+- Unity 2019.4
 
 ### Download
 
@@ -25,7 +25,7 @@ git clone https://www.example.com
 
 ### Contribute
 
-Launch the project using the Unity {Required Unity Version} and start contributing!
+Launch the project using the Unity 2019.4 and start contributing!
 
 ## License
 
