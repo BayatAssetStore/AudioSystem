@@ -17,7 +17,7 @@ The source code of the Audio System for Unity engine.
 - Clone the project:
 
 ```bash
-git clone https://www.example.com
+git clone https://github.com/BayatAssetStore/AudioSystem.git
 ```
 
 - [Download the latest release](https://github.com/BayatAssetStore/AudioSystem/releases/latest)
