@@ -20,8 +20,7 @@ The source code of the Audio System for Unity engine.
 git clone https://www.example.com
 ```
 
-- [Download the latest release](https://www.example.com)
-- [Download the latest unity package from Unity Asset Store](https://www.example.com)
+- [Download the latest release](https://github.com/BayatAssetStore/AudioSystem/releases/latest)
 
 ### Contribute
 
